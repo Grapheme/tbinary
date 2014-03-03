@@ -328,12 +328,12 @@ footer .nav-item a { margin: 0 70px 0 0; }
 .right-aside { margin: 0 160px 0 384px; }
 .right-aside header { padding: 0; }
 .right-aside header h1 { margin: 50px 0 70px; font-weight: 700; font-size: 60px; text-align: left; }
-.right-aside p { margin: 2em 0; font: 14px 'Conv_Helvetica', sans-serif; color: #444; }
+.right-aside p { margin: 2em 0; font: 14px/20px 'Conv_Helvetica', sans-serif; color: #444; }
 .right-aside p a { color: #888; }
 .right-aside p::selection { background: #7b1c1d; color:#fff; }
 .right-aside p::-moz-selection { background: #7b1c1d; color:#fff; }
 .right-aside .page-description-list { margin: 32px 0; padding: 0 0 0 16px; }
-.right-aside .page-description-item { margin: 0 0 16px; padding: 0 0 0 20px; font-size: 20px; color: #7B1C1D; }
+.right-aside .page-description-item { margin: 0 0 5px; padding: 0 0 0 20px; font-size: 20px; color: #7B1C1D; }
 .right-aside .page-description-item span { display: block; font: italic 14px 'Conv_Helvetica', sans-serif; color: #777; }
 .right-aside .page-description-item a { color: #7B1C1D; }
 /* ==========================================================================
